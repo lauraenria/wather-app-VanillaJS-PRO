@@ -1,0 +1,33 @@
+@media screen and (min-width: 500px) {
+    body {
+        font-size: 25px;
+    }
+
+    .weather-temp-container p {
+
+        position: absolute;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+        top: 45px;
+    }
+}
+
+
+
+@media screen and (min-width: 700px) {
+    body {
+        font-size: 30px;
+    }
+
+    .weather-temp-container p {
+
+        position: absolute;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+        top: 58px;
+    }
+}
