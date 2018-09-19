@@ -1,4 +1,4 @@
-# Wather app
+# Weather app in Vanilla JS
 
 *Build a website that shows the real-time weather for a location of your choice*
 
